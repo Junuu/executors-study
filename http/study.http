@@ -1,0 +1,5 @@
+### 성능테스트를 위한 Controller 테스트
+POST localhost:8080/performance
+
+### 성능테스트 후 에러율에 따른 session Count 측정 결과
+GET localhost:8080/session-count
